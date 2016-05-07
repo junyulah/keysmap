@@ -6,13 +6,12 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "defcomment": "^0.0.9"
-  },
+  "dependencies": {},
   "devDependencies": {
     "cl-jsoneq": "0.0.2",
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.3",
+    "mocha": "^2.4.5",
     "mocha-lcov-reporter": "^1.2.0"
   },
   "scripts": {
