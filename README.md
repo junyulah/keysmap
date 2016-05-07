@@ -2,6 +2,9 @@
 
 Multiple keys mapping. Allow none-string keys.
 
+[![Build Status](https://travis-ci.org/LoveKino/cl-ellipsis.svg)](https://travis-ci.org/LoveKino/keysmap.svg)
+[![Coverage Status](https://coveralls.io/repos/github/LoveKino/cl-ellipsis/badge.svg?branch=master)](https://coveralls.io/github/LoveKino/keysmap?branch=master)
+
 ## what is keysmap
 
 It's map, but a group of multiple keys mapping one value.
