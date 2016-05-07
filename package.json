@@ -1,0 +1,38 @@
+{
+  "name": "keysmap",
+  "version": "0.0.1",
+  "description": "Multiple keys mapping. Allow none-string keys.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "defcomment": "^0.0.9"
+  },
+  "devDependencies": {
+    "cl-jsoneq": "0.0.2",
+    "coveralls": "^2.11.9",
+    "istanbul": "^0.4.3",
+    "mocha-lcov-reporter": "^1.2.0"
+  },
+  "scripts": {
+    "test": "mocha test/**/*.js",
+    "cover": "istanbul cover _mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveKino/keysmap.git"
+  },
+  "keywords": [
+    "map",
+    "keys",
+    "multiple",
+    "none-string"
+  ],
+  "author": "ddchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoveKino/keysmap/issues"
+  },
+  "homepage": "https://github.com/LoveKino/keysmap#readme"
+}
